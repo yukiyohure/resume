@@ -3,7 +3,7 @@
 |key|value|
 |:-|:-|
 |名前|<ruby>柴田 祐輝<rp>（</rp><rt>シバタ ユウキ</rt><rp>）</rp></ruby>|
-|生年月日|1998年9月23日(満22才)|
+|生年月日|1998年9月23日(満23才)|
 |Zenn.dev|[yukiyohure](https://zenn.dev/yukiyohure)|
 |Qiita.com|[yukiyohure0923](https://qiita.com/yukiyohure0923)|
 |Twitter|[yukiyohure0923](https://twitter.com/yukiyohure0923)|
