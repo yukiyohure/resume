@@ -7,7 +7,7 @@
 |Zenn.dev|[yukiyohure](https://zenn.dev/yukiyohure)|
 |Qiita.com|[yukiyohure0923](https://qiita.com/yukiyohure0923)|
 |Twitter|[yukiyohure0923](https://twitter.com/yukiyohure0923)|
-|保有資格|LPIC-1, Oracle master 12c SQL基礎|
+|保有資格|LPIC-1, Oracle master 12c SQL基礎, TOEIC 815|
 
 ## 自己PR
 - HTML- CSSでサイト制作可能。
