@@ -1,4 +1,3 @@
-custom-unit-dayo
 # 職務経歴書
 ## 基本情報
 |key|value|
