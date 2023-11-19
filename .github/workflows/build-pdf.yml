@@ -1,0 +1,33 @@
+name: release pdf
+
+on:
+  pull_request:
+    branches: [main]
+    paths: 'docs/README.md'
+
+jobs:
+  build:
+    name: release pdf
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm install
+      - name: Build pdf
+        run: npm run build:pdf
+      - name: Create a draft release
+        uses: softprops/action-gh-release@v1
+        with:
+          body: ${{ github.event.pull_request.title }}
+          draft: true
+          fail_on_unmatched_files: true
+          files: docs/README.pdf
+          name: Release ${{ github.ref }}
