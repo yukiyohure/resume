@@ -1,0 +1,32 @@
+{
+  "filters": {
+    "comments": true
+  },
+  "rules": {
+    "ja-space-around-link": {
+      "before": true,
+      "after": true
+    },
+    "no-doubled-joshi": true,
+    "no-dropping-the-ra": true,
+    "preset-ja-technical-writing": {
+      "sentence-length": {
+        "max": 150
+      },
+      "max-kanji-continuous-len": {
+        "max": 6,
+        "allow": ["普通自動車第一種運転免許"]
+      },
+      "ja-no-successive-word": false,
+      "ja-no-mixed-period": false
+    },
+    "rousseau": {
+      "showLevels": ["suggestion", "warning", "error"],
+      "ignoreTypes": ["adverbs", "readibility", "sentence:uppercase"]
+    },
+    "@textlint-ja/textlint-rule-no-dropping-i": true,
+    "@proofdict/proofdict": {
+      "dictURL": "https://azu.github.io/proof-dictionary/"
+    }
+  }
+}
