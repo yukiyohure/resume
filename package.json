@@ -8,6 +8,8 @@
   },
   "scripts": {
     "lint": "textlint . && markdownlint docs/*.md",
+    "textlint": "textlint .",
+    "markdownlint": "markdownlint docs/*.md",
     "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js"
   },
   "repository": {
