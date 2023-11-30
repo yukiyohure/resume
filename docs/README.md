@@ -177,3 +177,42 @@ SESとして以下の2つの案件に参画。
 
 - 初めてのエンジニア業務ながら一人称でのタスク実施、他部署の非エンジニアメンバーとのミーティング、 仕様の不具合のエスカレーションなどを行なった。
 - 増税対応時は1ブランド分の対応を任されるようになった。
+
+## 業務外活動
+
+### OSS
+
+#### 冷蔵庫管理アプリ (2023/10 ~ 2023/11)
+
+知り合いエンジニアの方々とのグループ開発。
+ワイヤーフレームを作成するところまで参画。
+
+**GitHubリポジトリ**
+
+- [genesis-tech-tribe](https://github.com/genesis-tech-tribe)
+
+**担当した業務**
+
+- どのようなアプリを開発するかからの仕様策定
+- フロントエンドの開発環境構築 (Next.js, TypeScript, ESlint, Prettierなどの設定)
+- GitHubActionsを使ったCI環境作成
+- Notionを使った議事録のテンプレート作成
+- 策定した仕様を基にOOUIを用いてワイヤーフレームをFigmaで作成
+
+**成果物**
+
+- [Miro - OOUI設計図](https://miro.com/app/board/uXjVNT12hUM=/)
+- [Figma - ワイヤーフレーム](https://www.figma.com/file/8DBaloQNDTF7N3zj90MMvm/Nishiki-Wire-frame?type=design&node-id=0-1&mode=design&t=GBrHjgSONQwN6PqI-0)
+
+※チームを離れる直前に許可をもらってプライベートのアカウントにコピーしたものになります。
+
+#### ChakraUIへのコントリビュート (ドキュメントのサンプルコードを修正)
+- [docs: update tabs doc by passing the ref to <StyledTab>. ](https://github.com/chakra-ui/chakra-ui/pull/4603)
+
+### その他
+
+#### freeCodeCamp翻訳ボランティア (2023/04 〜 )
+
+freeCodeCampコミュニティに投稿された英語記事を日本語に翻訳。
+
+- [CSS を HTML にリンクする方法 – スタイルシートファイルのリンク](https://www.freecodecamp.org/japanese/news/how-to-link-css-to-html/)
