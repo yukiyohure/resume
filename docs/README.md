@@ -116,9 +116,9 @@ Linux 環境 (CentOS) でのサーバー設定やテスト環境の構築・テ�
 
 ---
 
-### 株式会社Gizumo（2019/06 〜 2020/01）
+### 株式会社Gizumo（2019/02 〜 2020/01）
 
-SESとして以下の2つの案件に参画。
+3ヶ月の研修の後、SESとして以下の2つの案件に参画。
 
 #### 一般ユーザー向け/求人サイトの制作運用 (2019/10 〜 2020/01)
 
@@ -184,7 +184,7 @@ SESとして以下の2つの案件に参画。
 
 #### 冷蔵庫管理アプリ (2023/10 ~ 2023/11)
 
-知り合いエンジニアの方々とのグループ開発。
+知り合いエンジニアの方々とのグループ開発。  
 ワイヤーフレームを作成するところまで参画。
 
 **GitHubリポジトリ**
@@ -204,10 +204,11 @@ SESとして以下の2つの案件に参画。
 - [Miro - OOUI設計図](https://miro.com/app/board/uXjVNT12hUM=/)
 - [Figma - ワイヤーフレーム](https://www.figma.com/file/8DBaloQNDTF7N3zj90MMvm/Nishiki-Wire-frame?type=design&node-id=0-1&mode=design&t=GBrHjgSONQwN6PqI-0)
 
-※チームを離れる直前に許可をもらってプライベートのアカウントにコピーしたものになります。
+※チームを離れる直前に許可をもらってプライベートのアカウントへコピーしたものになります。
 
 #### ChakraUIへのコントリビュート (ドキュメントのサンプルコードを修正)
-- [docs: update tabs doc by passing the ref to <StyledTab>. ](https://github.com/chakra-ui/chakra-ui/pull/4603)
+
+- [docs: update tabs doc by passing the ref to <StyledTab>](https://github.com/chakra-ui/chakra-ui/pull/4603)
 
 ### その他
 
