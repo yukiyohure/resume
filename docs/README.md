@@ -208,7 +208,7 @@ Linux 環境 (CentOS) でのサーバー設定やテスト環境の構築・テ�
 
 #### ChakraUIへのコントリビュート (ドキュメントのサンプルコードを修正)
 
-- [docs: update tabs doc by passing the ref to <StyledTab>](https://github.com/chakra-ui/chakra-ui/pull/4603)
+- [該当PR](https://github.com/chakra-ui/chakra-ui/pull/4603)
 
 ### その他
 
