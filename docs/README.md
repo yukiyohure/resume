@@ -212,6 +212,7 @@ Linux 環境 (CentOS) でのサーバー設定やテスト環境の構築・テ�
 
 #### freeCodeCamp翻訳ボランティア (2023/04 〜 )
 
-freeCodeCampコミュニティに投稿された英語記事を日本語に翻訳。
+freeCodeCampコミュニティに投稿された英語記事を日本語に翻訳して公開。
 
 - [CSS を HTML にリンクする方法 – スタイルシートファイルのリンク](https://www.freecodecamp.org/japanese/news/how-to-link-css-to-html/)
+- [React Hooks を使って localStorage のデータを保存・取得する方法](https://www.freecodecamp.org/japanese/news/how-to-use-localstorage-with-react-hooks-to-set-and-get-items/)
